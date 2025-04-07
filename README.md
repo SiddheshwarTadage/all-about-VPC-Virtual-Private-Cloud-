@@ -124,4 +124,6 @@ VPC provides:
 ---
 
 ## 📌 Architecture Overview
+![Screenshot 2025-04-07 171930](https://github.com/user-attachments/assets/6c02a277-8bd1-4c74-9d72-2e688368d748)
+
 
